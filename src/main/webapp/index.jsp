@@ -1,5 +1,5 @@
 <html>
 <body>
-<h1>Se lab internal</h1>
+<h1>Hello!</h1>
 </body>
 </html>
